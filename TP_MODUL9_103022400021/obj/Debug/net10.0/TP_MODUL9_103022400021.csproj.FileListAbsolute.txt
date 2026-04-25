@@ -1,0 +1,15 @@
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\bin\Debug\net10.0\TP_MODUL9_103022400021.exe
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\bin\Debug\net10.0\TP_MODUL9_103022400021.deps.json
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\bin\Debug\net10.0\TP_MODUL9_103022400021.runtimeconfig.json
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\bin\Debug\net10.0\TP_MODUL9_103022400021.dll
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\bin\Debug\net10.0\TP_MODUL9_103022400021.pdb
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.AssemblyInfoInputs.cache
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.AssemblyInfo.cs
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.csproj.CoreCompileInputs.cache
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.sourcelink.json
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.dll
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\refint\TP_MODUL9_103022400021.dll
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.pdb
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\TP_MODUL9_103022400021.genruntimeconfig.cache
+D:\Workspace\Task\Telkom University\Semester 4\Konstruksi Perangkat Lunak\TP_MODUL9_103022400021\TP_MODUL9_103022400021\TP_MODUL9_103022400021\obj\Debug\net10.0\ref\TP_MODUL9_103022400021.dll
