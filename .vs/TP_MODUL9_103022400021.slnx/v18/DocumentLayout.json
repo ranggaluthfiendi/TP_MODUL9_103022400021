@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Task\\Telkom University\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400021\\TP_MODUL9_103022400021\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FFF9BCA-5142-4845-9338-469E5CD45A68}|TP_MODUL9_103022400021\\TP_MODUL9_103022400021.csproj|d:\\workspace\\task\\telkom university\\semester 4\\konstruksi perangkat lunak\\tp_modul9_103022400021\\tp_modul9_103022400021\\tp_modul9_103022400021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FFF9BCA-5142-4845-9338-469E5CD45A68}|TP_MODUL9_103022400021\\TP_MODUL9_103022400021.csproj|solutionrelative:tp_modul9_103022400021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Task\\Telkom University\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400021\\TP_MODUL9_103022400021\\TP_MODUL9_103022400021\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400021\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Task\\Telkom University\\Semester 4\\Konstruksi Perangkat Lunak\\TP_MODUL9_103022400021\\TP_MODUL9_103022400021\\TP_MODUL9_103022400021\\Program.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400021\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:09:55.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
